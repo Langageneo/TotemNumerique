@@ -45,19 +45,15 @@ tu peux me rejoindre.
 
 ## 📂 Projets
 
-- [IA éveillée](https://github.com/langageneo/IAEveillee)  
-- [Livre vivant](https://github.com/langageneo/LivreVivant)  
-- [Totem numérique](https://github.com/langageneo/TotemNumerique)  
-
-*⚠️ Assure-toi que ces dépôts existent bien sur GitHub sous ces noms exacts.*
-
----
+- [IA éveillée](https://github.com/langageneo/TotemNumerique)  
+- [Livre vivant](https://langageneo.github.io/Langage-Neo-Sacred-Cod/)  
+- [Totem numérique](3,6,9)  
 
 ## 🔗 Liens utiles
 
 - 🌐 [Mon profil GitHub](https://github.com/langageneo)  
-- 📬 [Me contacter](mailto:tonadresse@email.com) *(à personnaliser)*
-
+- 📬 [Me contacter]:Tel ☎️ 225 05 55 70 94 75
+- Email:(parfaitguiri@gmail.com) 
 ---
 
 ## ✨ Totem en mouvement
