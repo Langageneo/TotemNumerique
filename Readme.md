@@ -70,33 +70,5 @@ const morale = "guidée par l'esprit";
     </div>
   </div>
   <h1>Le Langage-Néo</h1>
-  <div class="codes-graves">
-    <span>𝓜𝓸𝓻𝓪𝓵𝓮</span> &nbsp;|&nbsp; <span>𝓔́𝓽𝓱𝓲𝓺𝓾𝓮</span>
-  </div>
-</div>
-
- #42f5ef;
-  }
-  50% {
-    box-shadow: 0 0 40px #42f5ef;
-  }
-}
-
-@keyframes codeScroll {
-  0% {
-    transform: translateY(100%);
-  }
-  100% {
-    transform: translateY(-100%);
-  }
-}
-
-@keyframes floatText {
-  0% { transform: translateY(0);}
-  100% { transform: translateY(-10px);}
-}
-</style>)
-
----
-
+  
 > « Avec mon esprit, je guide la machine.  
