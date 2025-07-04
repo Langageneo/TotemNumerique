@@ -75,65 +75,7 @@ const morale = "guidée par l'esprit";
   </div>
 </div>
 
-<style>
-.langage-neo-sacré {
-  background: linear-gradient(135deg, #0d0d0d, #1a1a1a);
-  color: #a0e7e5;
-  font-family: 'Courier New', monospace;
-  text-align: center;
-  padding: 2rem;
-  border: 3px solid #42f5ef;
-  border-radius: 15px;
-  width: 320px;
-  margin: 20px auto;
-  box-shadow: 0 0 20px #42f5ef;
-  animation: pulseGlow 3s ease-in-out infinite;
-}
-
-.ordinateur {
-  width: 200px;
-  height: 140px;
-  margin: 0 auto 15px;
-  border: 5px solid #42f5ef;
-  border-radius: 15px 15px 5px 5px;
-  position: relative;
-  box-shadow: 0 0 15px #42f5ef inset;
-  background: #000;
-}
-
-.ecran {
-  font-size: 14px;
-  color: #70fff7;
-  padding: 15px;
-  height: 90px;
-  overflow: hidden;
-  font-weight: bold;
-  text-align: left;
-  white-space: pre-wrap;
-  animation: codeScroll 8s linear infinite;
-}
-
-h1 {
-  font-family: 'Georgia', serif;
-  font-size: 2rem;
-  letter-spacing: 0.2em;
-  text-shadow: 0 0 10px #42f5ef;
-  margin-bottom: 10px;
-  user-select: none;
-}
-
-.codes-graves span {
-  font-family: 'Cursive', serif;
-  font-size: 1.1rem;
-  margin: 0 10px;
-  color: #56f1f1;
-  text-shadow: 0 0 5px #56f1f1;
-  animation: floatText 4s ease-in-out infinite alternate;
-}
-
-@keyframes pulseGlow {
-  0%, 100% {
-    box-shadow: 0 0 20px #42f5ef;
+ #42f5ef;
   }
   50% {
     box-shadow: 0 0 40px #42f5ef;
